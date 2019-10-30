@@ -6,6 +6,10 @@ I used create-react-app to start this project and as someone said I believe its 
 
 This project is divided in backend and frontend. To run frontend you need to run 'npm i' to install any missing dependency and execute 'yarn start' in a node environment. To run backend you need to point your http server to folder 'api'
 
+### Conversion
+
+To convert csv to json I used tool csvtojson in node
+
 ### Optimizations
 
 With new react version I could avoid using redux at all by using hooks to communicate in between components
