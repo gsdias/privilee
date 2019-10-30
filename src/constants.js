@@ -1,0 +1,7 @@
+
+/*
+ * AppConstants
+ */
+
+export const UPDATE_DISCOUNT_FILTER = 'UPDATE_DISCOUNT_FILTER';
+export const UPDATE_NAME_FILTER = 'UPDATE_NAME_FILTER';
