@@ -15,3 +15,7 @@ To improve performance a few aspects can take in consideration starting by using
 ### Real project
 
 To find more about the way I code you can find in the repo https://github.com/gsdias/gsdias-cms my own CMS where I built using extensive OOP and in a way that you can easily extend for each client. I can go through the CMS to explain better the way it was created
+
+### Troubleshooting
+
+If you find any problem running side by side PHP and React the idea is to use / for the app and /api for the api itself.
