@@ -4,7 +4,7 @@ I used create-react-app to start this project and as someone said I believe its 
 
 ### Start project
 
-This project is divided in backend and frontend. To run frontend you need to execute 'yarn start' in a node environment. To run backend you need to point your http server to folder 'api'
+This project is divided in backend and frontend. To run frontend you need to run 'npm i' to install any missing dependency and execute 'yarn start' in a node environment. To run backend you need to point your http server to folder 'api'
 
 ### Optimizations
 
